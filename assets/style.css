@@ -1,6 +1,10 @@
 * {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Quicksand', sans-serif;
 };
+
+
+
+
 
 @media screen and (max-width: 576px) {
     header {
@@ -11,4 +15,4 @@
     margin: 0;
     padding-left: 0;
     }
-}
+};
